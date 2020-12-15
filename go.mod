@@ -1,1 +1,3 @@
-module "go-mcpequery"
+module go-mcpequery
+
+go 1.14
