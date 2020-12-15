@@ -1,1 +1,1 @@
-module "go-minecraftquery"
+module "go-mcpequery"
